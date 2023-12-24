@@ -97,7 +97,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-  border-bottom: 1px solid #eee;
+  /* border-bottom: 1px solid #eee; */
 }
 .masthead-title {
   margin-top: 0;
@@ -167,7 +167,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 .sidebar-item {
-  padding: 1rem;
+  /* padding: 1rem; */
 }
 .sidebar-item p:last-child {
   margin-bottom: 0;
